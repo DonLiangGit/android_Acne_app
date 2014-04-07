@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Tap your acne area to show solutions!</string>
+    <string name="app_name">Avoid</string>
+    <string name="BetweenBrows">BetweenBrows眉毛之间</string>
+    <string name="ChinJaw">ChinJaw下巴</string>
+    <string name="Forehead">Forehead额头</string>
+    <string name="LeftCheek">LeftCheek左脸颊</string>
+    <string name="LipArea">LipArea嘴唇周</string>
+    <string name="Nose">Nose鼻子</string>
+    <string name="RightCheek">RightCheek右脸颊</string>
+    <string name="Solutions">Solutions改善</string>
+    
+    <string name="FH">\n
+        *Go to bed early (10pm) and wake up early (6am).\n
+        *Drink plenty of water \n
+        *20-30 minutes of light exercise every day,   especially outdoors\n
+        *Practice relaxation techniques to worry less\n
+        *Get enough sleep with a regular sleep schedule\n
+        *Eat healthy foods, chewing thoroughly\n
+        *Better hygiene\n
+        *应养成早睡早起的习惯.\n</string>
+    <string name="NO">\n
+        *Eat less pungent foods (spices, garlic, etc)\n
+*Eat less meat\n
+*Eat warm temperature foods (not too cold or hot)\n
+*Get more fresh air\n
+*Exercise everyday (like going for a walk)\n
+*Massage the area around your nose\n
+*Make sure you are getting enough Vitamin B\n
+*少吃冰冷食物，寒性食物易引起胃酸分泌，造成胃火过大.\n
+    </string>
+    <string name="BB">\n
+*Exercise, but avoid strenuous exercise\n
+*Get more sleep\n
+*Avoid alcohol\n
+*Avoid smoking\n
+*不要尝试太过激烈的运动.\n
+*要避免烟、酒刺激性的食品.\n</string>
+    <string name="LC">\n 
+        *Maintain a normal daily routine\n
+        *Try to keep a positive mood\n
+        *Dont let your body overheat\n
+        *Eat more cooling foods\n
+        *Dont overeat\n
+*Try to decompress and relax\n
+*The liver is the strongest from 1-3 AM. This is when you should be sleeping\n
+*The liver is weakest at 1-5 PM, so schedule difficult work for the morning\n
+*If you have to work in the afternoon, rest your eyes for 5 minutes every hour\n
+*Practice proper hygiene\n
+*作息正常，保持心情愉快，该吹冷气就吹冷气，不要让身体处在过度闷热.\n
+</string>
+    
+    <string name="RC">\n
+        *Avoid fast food and junk food\n
+*Avoid mango, taro root, wine, and seafood or other foods you may be sensitive to\n
+*Eat less sugar\n
+*Get more fresh air\n
+*The lung is strongest at 7-9 AM. This is the best time for aerobic exercise\n
+*Practice proper hygiene\n
+*平时注意呼吸道的保养，尽量避免芒果、芋头、海鲜甲壳等易过敏食物。\n
+</string>
+
+    <string name="CJ">\n
+        *Reduce the habit of eating before bed\n
+*Eat more fresh fruit and vegetables\n
+*Get more rest\n
+*Get your hormones checked\n
+*Get 20 minutes of exercise each day\n
+*Sleep early and wake up early\n
+*Massage your body for relaxation\n
+*Practice proper hygiene\n
+*少吃冰冷的东西。\n
+</string>
+
+    <string name="LA">\n
+        *Eat more fiber\n
+*Include more fresh fruits and vegetables in your diet\n
+*Eat less spicy and fried foods\n
+*Massage abdominal area in a clockwise motion\n
+*Change your toothpaste\n
+*多吃高纤维的蔬菜水果。\n
+*调整饮食习惯.\n
+</string>
+</resources>

@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+              android:id="@+id/layout_root"  
+              android:orientation="horizontal"  
+              android:layout_width="fill_parent"  
+              android:layout_height="fill_parent"  
+              android:padding="10dp"  
+              >  
+
+    <LinearLayout   
+        android:orientation="vertical"  
+        android:layout_width="fill_parent"   
+        android:layout_height="wrap_content"  
+        android:padding="5dp"   
+        >  
+    <TextView android:id="@+id/text"  
+              android:layout_width="wrap_content"  
+              android:layout_height="fill_parent"  
+              android:textColor="#FFF"  
+              />  
+    <LinearLayout   
+        android:orientation="horizontal"  
+        android:layout_width="fill_parent"   
+        android:layout_height="wrap_content"  
+        android:padding="5dp"   
+        >
+
+        <Button
+            android:id="@+id/button_yes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginLeft="600dp"
+            android:text="Thanks for reading." />
+
+    </LinearLayout>  
+    </LinearLayout>  
+</LinearLayout>  
